@@ -2,6 +2,8 @@ package app;
 
 import app.config.AppConfig;
 import app.model.AnimalsCage;
+import app.model.Timer;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
